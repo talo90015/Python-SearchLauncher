@@ -1,2 +1,6 @@
 # Python-SearchLauncher
  這是個使用Python thinter和selenium模組完成的啟動器，有兩組搜尋引擎可以選擇，分別是Chrome和Firefox
+ 
+使用方法:開啟後在Entry輸入要搜尋的內容之後，選擇要使用的瀏覽器，最後在按下Search送出完成
+
+右下角有歷史搜尋紀錄和清除按鈕可以處理自己的搜尋紀錄
